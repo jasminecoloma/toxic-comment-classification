@@ -2,6 +2,7 @@
 Project 2 - Practice developing spark programs to perform classification and prediction
 
 Part1 - Toxic Comment Classification
+
 This section mainly practices basic text processing using Apache Spark using the toxic comment text classification dataset. 
 
 Data Source: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
